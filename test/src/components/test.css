@@ -1,0 +1,18 @@
+.question{
+    color: white;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+.question:li{
+    width: 100%;
+}
+.wrapper{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+}
